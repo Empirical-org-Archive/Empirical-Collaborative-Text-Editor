@@ -1,6 +1,6 @@
 var config = {
-	repository: 'contentify',
-	username: 'thyb',
-	firebase_url: "",
+	repository: 'Documentation',
+	username: 'empirical-org',
+	firebase_url: "blistering-fire-5732.firebaseIO.com",
 	algolia_key: ""
 };

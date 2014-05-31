@@ -56,7 +56,8 @@ module.exports = function(grunt) {
         },
         harp: {
             server: {
-                server: true
+                server: true,
+                port: process.env.PORT
             }
         },
 
